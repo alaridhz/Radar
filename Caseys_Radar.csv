@@ -1,0 +1,9 @@
+name,ring,quadrant,isNew,description
+OpenShift,adopt,tools,TRUE,POC stage
+Apache Kafka,trial,languages & frameworks,TRUE,test
+Grafana,adaopt,platforms,TRUE,production for some teams
+Elastic,assess,techniques,FALSE,doing a POC to evaluate
+Splunk,hold,platforms,FALSE,Adaopted by Security team
+New Relic,adopt,tools,TRUE,POC stage
+Azure DevOps,adaopt,languages & frameworks,TRUE,adapted by engineering teams
+Teraform,adaopt,platforms,TRUE,production for some teams
